@@ -1,1 +1,1 @@
-# SSRN
+This repo contains my published SSRN preprints. See https://www.ssrn.com/author=7847528
